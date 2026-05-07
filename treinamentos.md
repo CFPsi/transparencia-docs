@@ -10,7 +10,7 @@ description: >-
 
 Apresentações:&#x20;
 
-* [https://docs.google.com/presentation/d/1ZCG40BsbwV\_be7thf9w0SWzJ7etdUQetjglHdAFkBx0/edit?usp=sharing](https://docs.google.com/presentation/d/1ZCG40BsbwV_be7thf9w0SWzJ7etdUQetjglHdAFkBx0/edit?usp=sharing)
+* Uma visão geral sobre a publicação de conteúdos ([https://docs.google.com/presentation/d/1ZCG40BsbwV\_be7thf9w0SWzJ7etdUQetjglHdAFkBx0/edit?usp=sharing](https://docs.google.com/presentation/d/1ZCG40BsbwV_be7thf9w0SWzJ7etdUQetjglHdAFkBx0/edit?usp=sharing))
 
 Vídeo:
 
