@@ -20,4 +20,5 @@
   * [Psicóloga(o)](publicando_conteudo/psicologao.md)
   * [Informação ao Cidadão](publicando_conteudo/informacao-ao-cidadao.md)
 * [Páginas integradas](conteudos-de-outros-sistemas.md)
+* [Legislação e Normativas](legislacao-e-normativas.md)
 * [Treinamentos](treinamentos.md)
