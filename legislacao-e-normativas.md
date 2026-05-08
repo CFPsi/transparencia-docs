@@ -15,6 +15,8 @@ Esta seção reúne o conjunto de marcos regulatórios, acórdãos e instruçõe
 _Normas de hierarquia superior que estabelecem os direitos fundamentais de acesso à informação e as regras gerais de contratação e identificação no serviço público brasileiro._
 
 * **Lei nº 12.527/2011 (Lei de Acesso à Informação - LAI):** Regula o direito constitucional de acesso às informações públicas. É a base de toda a transparência ativa e passiva.
+* **Lei nº 13.460/2017 (Código de Defesa do Usuário do Serviço Público):** Estabelece as diretrizes para a "Carta de Serviços ao Usuário", que deve estar obrigatoriamente no Portal da Transparência, detalhando prazos e formas de acesso aos serviços do Conselho.
+* **Lei nº 13.709/2018 (Lei Geral de Proteção de Dados - LGPD):** A norma mestra que limita a transparência ativa, definindo o que deve ser anonimizado (como CPFs e endereços) para proteger a privacidade dos inscritos e funcionários.
 * **Lei nº 14.133/2021 (Nova Lei de Licitações):** Estabelece o novo regime de licitações e contratos, exigindo transparência total no Ciclo de Vida da Contratação.
 * **Lei nº 14.534/2023 (Lei do CPF Único):** Determina o CPF como número único de identificação nos sistemas de dados públicos e registros profissionais.
 
@@ -23,6 +25,7 @@ _Normas de hierarquia superior que estabelecem os direitos fundamentais de acess
 _Atos do Poder Executivo que detalham e regulamentam a aplicação das leis federais, garantindo sua execução uniforme pelas autarquias e órgãos da administração._
 
 * **Decreto nº 7.724/2012:** Regulamenta a Lei de Acesso à Informação no âmbito do Poder Executivo Federal, servindo de parâmetro obrigatório para os Conselhos Profissionais.
+* **Decreto nº 9.310/2018:** Institui a Política de Governança Pública, que obriga os Conselhos a manterem mecanismos de liderança, estratégia e controle para avaliar, direcionar e monitorar a gestão.
 
 ### 🏛️ Acórdãos do TCU
 
