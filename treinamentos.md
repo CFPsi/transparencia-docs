@@ -11,6 +11,7 @@ description: >-
 Apresentações:&#x20;
 
 * [Dados Abertos](https://canva.link/2wiwef9rnsl64kv)
+* [Transparência Ativa](https://docs.google.com/presentation/d/1N00IQ66z74qwttUwQHUDbxTqslB__iu8KJRex9iOhvg/edit?slide=id.p6#slide=id.p6)
 * [Visão geral sobre a publicação de conteúdos](https://docs.google.com/presentation/d/1ZCG40BsbwV_be7thf9w0SWzJ7etdUQetjglHdAFkBx0/edit?usp=sharing)
 
 Vídeo:
