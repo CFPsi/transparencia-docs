@@ -16,7 +16,7 @@ Apresentações:&#x20;
 
 Vídeo:
 
-_Em breve..._
+_Em breve.._
 
 ### Oficina sobre Inadimplência, Prestação de Contas ao TCU e Portal da Transparência - 08/03/2022
 
