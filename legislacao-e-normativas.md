@@ -65,7 +65,7 @@ _Atos administrativos de caráter operacional que definem requisitos técnicos, 
 
 _Orientações preventivas expedidas por órgãos de fiscalização, como o MPF, visando a correção de irregularidades antes da abertura de processos judiciais._
 
-* Recomendação 12/2019 - MPF/RO (para CRP 20 e CRP 24): Diretrizes para a transparência de verbas indenizatórias nominais e detalhamento de gastos, servindo de baliza para evitar Ações Civis Públicas.
+* **Recomendação 12/2019 - MPF/RO (para CRP 20 e CRP 24):** Diretrizes para a transparência de verbas indenizatórias nominais e detalhamento de gastos, servindo de baliza para evitar Ações Civis Públicas.
 
 ***
 
