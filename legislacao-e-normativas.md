@@ -1,7 +1,7 @@
 ---
 description: >-
-  Fundamentos jurídicos e diretrizes de transparência para Conselhos
-  Profissionais (TCU/MPF).
+  Fundamentos jurídicos e diretrizes de transparência para o Sistema Conselhos
+  de Psicologia (TCU/MPF).
 ---
 
 # Legislação e Normativas
