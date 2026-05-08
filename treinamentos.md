@@ -6,7 +6,7 @@ description: >-
 
 # Treinamentos
 
-### Oficina sobre o Portal da Transparência e Dados Abertos - 06/05/2026.
+### Oficina sobre o Portal da Transparência e Dados Abertos - 06/05/2026
 
 Apresentações:&#x20;
 
