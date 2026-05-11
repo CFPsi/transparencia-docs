@@ -26,6 +26,7 @@ _Atos do Poder Executivo que detalham e regulamentam a aplicação das leis fede
 
 * **Decreto nº 7.724/2012:** Regulamenta a Lei de Acesso à Informação no âmbito do Poder Executivo Federal, servindo de parâmetro obrigatório para os Conselhos Profissionais.
 * **Decreto nº 9.310/2018:** Institui a Política de Governança Pública, que obriga os Conselhos a manterem mecanismos de liderança, estratégia e controle para avaliar, direcionar e monitorar a gestão.
+* **Decreto nº 11.872/2024:** Atualiza os valores das diárias de viagens a serviço, no âmbito da administração pública federal direta, autárquica e fundacional. É o parâmetro de teto e razoabilidade exigido pelo TCU para os Conselhos Profissionais.
 
 ### 🏛️ Acórdãos do TCU
 
@@ -33,9 +34,11 @@ _Decisões do Tribunal Pleno que interpretam a legislação e definem a jurispru
 
 * **Acórdão 96/2016 - Plenário:** Marco zero que consolidou a natureza autárquica dos conselhos e sua submissão direta ao controle do TCU.
 * **Acórdão 541/2019 - Plenário:** Fixa diretrizes rigorosas para a publicação de dados em portais de transparência ativa.
-* **Acórdão 1.925/2019 - Plenário:** Foca na governança institucional, exigindo planejamento estratégico e gestão de riscos.
+* **Acórdão 1.925/2019 - Plenário:** Avalia a governança e gestão, determinando que os Conselhos devem estabelecer normativos próprios para diárias e jetons fundamentados em estudos técnicos e que utilizem os parâmetros do Poder Executivo Federal como baliza de razoabilidade.
 * **Acórdão 2.525/2021 - Plenário:** Determina a priorização de gastos na atividade-fim (fiscalização) em relação à atividade-meio.
+* **Acórdão 1.237/2022 - Plenário:** Altera o Acórdão 1.925/2019 para reforçar que, embora os Conselhos tenham autonomia, os valores de diárias não podem ser fixados de forma desproporcional, devendo observar estritamente os princípios da moralidade e economicidade.
 * **Acórdão 1.332/2022 - Plenário:** Disciplina a gestão de pessoal e a proporcionalidade de gastos com folha de pagamento.
+* **Acórdão 1.099/2024 - Plenário:** Determina que os Conselhos Federais revisem seus normativos internos para adequar os valores das diárias, de modo que não excedam injustificadamente os valores pagos pelo Executivo Federal, sob risco de sanções aos gestores.
 * **Acórdão 1.648/2024 - Plenário:** Exige que os Conselhos Federais criem Planos de Dados Abertos (PDA) para todo o sistema.
 * **Acórdão 646/2025 - Plenário:** Reforça a responsabilidade dos Federais na padronização dos dados dos Regionais.
 * **Acórdão 1.372/2025 - Plenário:** Auditoria em Segurança da Informação e exigência de conformidade plena com a LGPD, nomeação formal de um Encarregado de Dados (DPO) e a publicação da Política de Segurança da Informação (PSI).
