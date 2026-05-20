@@ -63,12 +63,31 @@ Para incluir atas, siga os passos:
 1. [Acesse o sistema](../introducao/acessando_o_sistema.md)
 2. No menu do painel clique no item **Atas**
 3. Clique no botão **Adicionar Novo**
-4. Preencha o **Título** e o **Conteúdo**
-5. Na caixa **Arquivos** (onde serão anexados os documentos) clique no botão **Adicionar Documento**
-6. Na caixa **Documento** preencha o **Título** e adicione o arquivo (em pdf) clicando no botão **Adicionar Arquivo**, na proxima tela clique no botão **Selecionar arquivos**, depois que escolher o arquivo clique no botão **Inserir no post**
-7. Para adicionar mais arquivos repita os passos 5 e 6 quantas vezes forem necessárias
-8. Na caixa **Publicar** edite a data de publicação clicando no link **Editar** (que fica na frente do texto 'Publicar imediatamente') para o seu correto arquivamento
-9. Na caixa **Reuniões** escolha qual o tipo da reunião (plenária ou plenária de julgamento ético) e para finalizar clique no botão **Publicar**
+4. Preencha o **Título** 
+5. Preencha a seção **Conteúdo** com uma breve descrição da reunião, de no máximo um parágrafo.
+6. A caixa **Arquivos** é a solução antiga para anexo de documentos e pode ser ignorada em novas atas. Para alterar em atas anteriores:
+
+	6.1.clique no botão **Adicionar Documento**
+
+	6.2. Na caixa **Documento** preencha o **Título** e adicione o arquivo (em pdf) clicando no botão **Adicionar Arquivo**, na proxima tela clique no botão **Selecionar arquivos**, depois que escolher o arquivo clique no botão **Inserir no post**
+
+	6.3. Para adicionar mais arquivos repita os passos 6.1 e 6.2 quantas vezes forem necessárias
+
+7. A caixa **Dados da Ata** contém um campo chamado **Dias de reunião**. Nele, podem ser incluídos 1 ou mais dias de reunião com o botão **Adicionar dia de reunião**. Cada dia possui sua própria data, título, íntegra da ata e anexo. Para definir as informações de cada dia de reunião:
+
+	7.1. Clique no campo **Data** e escolha a data da reunião no seletor de datas.
+
+	7.2. Preencha o campo **Título** com um título que identifique a reunião. Ex.: 2ª Reunião Plenário (Plenário ABC): Dia 1
+
+	7.3. No campo **Ata do dia**, preencha com a íntegra do texto da ata.
+
+	7.4. No campo **Participantes**, preencha com os nomes dos participantes da reunião, inserindo um nome por linha. Você pode copiar a lista de participantes de um documento externo e colar no campo: o campo conta com um mecanismo que tentará converter o conteúdo colado para o formato de um por linha.
+
+	7.5. No campo **Arquivo**, envie o arquivo PDF da ata do dia, já com as assinaturas necessárias.
+
+8. Na caixa **Publicar** edite a data de publicação clicando no link **Editar** (que fica na frente do texto 'Publicar imediatamente') e inserindo para o seu correto arquivamento. Caso haja mais de um dia de reunião, preencha com o dia da primeira reunião
+9. Na caixa **Reuniões** escolha qual o tipo da reunião (plenária ou plenária de julgamento ético) 
+10. Finalize clicando no botão **Publicar**
 
 **DICA**: Para colar o texto sem formatação ative o botão **Colar como texto** antes de colar.
 
