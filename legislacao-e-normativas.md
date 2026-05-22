@@ -45,6 +45,7 @@ _Decisões do Tribunal Pleno que interpretam a legislação e definem a jurispru
 * **Acórdão 1.372/2025 - Plenário:** Auditoria em Segurança da Informação e exigência de conformidade plena com a LGPD, nomeação formal de um Encarregado de Dados (DPO) e a publicação da Política de Segurança da Informação (PSI).
 * **Acórdão 2.309/2025 - Plenário:** Estabelece critérios para a ocupação de cargos em comissão e funções de confiança.
 * **Acórdão 2.919/2025 - Plenário:** Auditoria de sistemas focada no uso do CPF único e interoperabilidade entre bases de dados profissionais.
+* **Acórdão 309/2026 - Plenário:** Resultante de ampla auditoria operacional, combate a fragmentação institucional e reafirma o princípio da unicidade, posicionando os Conselhos Federais como órgãos centrais de governança. Aponta baixo grau de maturidade em integração tecnológica e transparência, instituindo a divulgação pública de indicadores de maturidade e propondo o projeto-piloto "Compromisso Cidadão" para alinhar as metas institucionais ao interesse público.
 * **Acórdão 1.099/2026 - Plenário:** Determina que os Conselhos Federais revisem seus normativos internos para adequar os valores das diárias, de modo que não excedam injustificadamente os valores pagos pelo Executivo Federal, sob risco de sanções aos gestores.
 
 ### 📝 Instruções Normativas (IN)
